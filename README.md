@@ -1,2 +1,1 @@
-# 7cez.github.io
-7cez website
+7cez
